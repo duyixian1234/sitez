@@ -7,7 +7,7 @@ version = "0.1.0"
 
 [tool.poetry.dependencies]
 html-dsl = "^0.4.0"
-pydantic = "^1.8.1"
+pydantic = {extras = ["email"], version = "^1.8.1"}
 python = "^3.8"
 toml = "^0.10.2"
 typer = "^0.3.2"

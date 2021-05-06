@@ -3,6 +3,7 @@ authors = ["duyixian <duyixian1234@qq.com>"]
 description = "another site generator"
 license = "MIT"
 name = "sitez"
+readme = "README.md"
 version = "0.1.0"
 
 [tool.poetry.dependencies]
